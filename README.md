@@ -1,4 +1,5 @@
 # Face-Mask-Detection_Using_YOLOV5
+![image](https://github.com/user-attachments/assets/a5c714dd-867f-42e1-ba6e-20f7220496b5)
 
 An automated system to detect whether people are wearing masks in public areas using YOLOv5. This project is designed to enhance public health safety by monitoring mask compliance in real-time.
 
@@ -86,8 +87,10 @@ names: ['Mask', 'No Mask']
 
 ### Example Output
 Sample detection results:
-- Image with Mask: ![Mask Detection](path_to_example_mask_image.png)
-- Image without Mask: ![No Mask Detection](path_to_example_no_mask_image.png)
+- Image with Mask: ![Mask Detection](![image](https://github.com/user-attachments/assets/c9ea06cb-b006-431c-bf12-1a88f44115ba)
+)
+- Image without Mask: ![No Mask Detection](![RTX7CCFN_jpg rf 501a9e3af09662fc1fbd288a32904267](https://github.com/user-attachments/assets/fa60ba7d-12f0-4425-8b59-eae3d374fb31)
+)
 
 ---
 
@@ -97,10 +100,6 @@ Run the following command to start real-time detection:
 ```bash
 !python detect.py --weights runs/train/exp/weights/best.pt --img 640 --source 0
 ```
-### Deployment Options
-- **Web App**: Deploy using Streamlit or Flask.
-- **Edge Devices**: Convert the model to ONNX or TensorRT for lightweight deployments.
-
 ---
 
 ## Future Improvements
@@ -113,18 +112,6 @@ Run the following command to start real-time detection:
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your enhancements.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-## Contact
-**Ganesh Ahire**
-- [GitHub Profile](https://github.com/yourgithubusername)
-- [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
 
 ---
 
