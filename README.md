@@ -87,7 +87,8 @@ names: ['Mask', 'No Mask']
 
 ### Example Output
 Sample detection results:
-- Image with Mask: ![Mask Detection](![image](https://github.com/user-attachments/assets/c9ea06cb-b006-431c-bf12-1a88f44115ba)
+- Image with Mask: ![Mask Detection](![download](https://github.com/user-attachments/assets/a6d04b4d-a58c-4107-91fa-1b887a15dc5f)
+
 )
 - Image without Mask: ![No Mask Detection](![RTX7CCFN_jpg rf 501a9e3af09662fc1fbd288a32904267](https://github.com/user-attachments/assets/fa60ba7d-12f0-4425-8b59-eae3d374fb31)
 )
